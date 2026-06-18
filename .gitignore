@@ -1,0 +1,13 @@
+# Large data/presentation files (too large for GitHub)
+*.zip
+*.pptx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
